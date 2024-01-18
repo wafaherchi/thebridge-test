@@ -8,7 +8,7 @@ const cors = require('cors')
 
 
 
-mongoose.connect("mongodb+srv://hichem123:hichem123@cluster0.cv5kb42.mongodb.net/?retryWrites=true&w=majority").then(() => {
+mongoose.connect("mongodb+srv://wafaherchi2000:wafaherchi@cluster0.hqutmo4.mongodb.net/?retryWrites=true&w=majority").then(() => {
     console.log('base de donnees connecté!')
 })
 
